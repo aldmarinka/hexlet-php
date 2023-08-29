@@ -1,0 +1,16 @@
+{
+    "name": "aldmarinka/hexlet-php",
+    "description": "example package",
+    "autoload": {
+        "psr-4": {
+            "aldmarinka\\HexletPhp\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Marina Aldoshina",
+            "email": "aldmarinka@yandex.ru"
+        }
+    ],
+    "require": {}
+}
